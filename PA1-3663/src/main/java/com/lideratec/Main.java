@@ -39,7 +39,6 @@ public class Main {
                         System.out.print("Ingrese stock inicial: ");
                         int stock = scanner.nextInt();
 
-                        // Guardamos el objeto dependiendo del contador
                         if (contadorProductos == 0) {
                             producto1 = new Producto(codigo, nombre, precio, stock);
                         } else if (contadorProductos == 1) {
