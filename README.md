@@ -15,5 +15,5 @@ Este proyecto es un sistema por consola programada en Java, que va a ayudar a un
 4. Ejecutar el archivo `Main.java` dándole al botón con una flecha verde .
 5. Interactuar con el menú escribiendo las opciones numéricas pudiendo colocar (1) para registrar un nuevo producto, (2) Para mostrar todos los productos, (3) para realizar una venta, (4) para ver el total ganado y por ultimo (5) para salir del sistema.
 
-##Link del video:
+## Link del video:
 https://youtu.be/Cu-0iWScxpE 
